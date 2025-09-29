@@ -1,1 +1,0 @@
-en esta versión quitaremos todos los warnings y solo visualizaremos los checks q ha marcado el usuario. Validaremos los campos que ha rellenado el usuario, visualizando si lo ha rellenado o no
